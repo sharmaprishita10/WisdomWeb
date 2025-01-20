@@ -1,0 +1,16 @@
+{% extends "encyclopedia/layout.html" %}
+
+{% block title %}
+    {{ title }} - Search results -
+{% endblock %}
+
+{% block body %}
+    The page "{{ title }}" does not exist. Do you mean:
+    <ul>
+        {% for name in result %}
+            <li><a href = "{% url 'entry' name %}">{{ name }}</a></li>
+        {% empty %}
+            <li>No matching result.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
