@@ -13,15 +13,15 @@ This project involves building an online encyclopedia where each entry is stored
 
 ### Specification
 
-#### Entry Page
-
-- Visiting `/wiki/TITLE`, where `TITLE` is the title of an encyclopedia entry, renders a page displaying the entry's content.
-- If the entry does not exist, an error page is shown.
-
 #### Index Page
 
 - The index page lists all encyclopedia entries.
 - Each entry name links to its respective entry page.
+
+#### Entry Page
+
+- A page displaying the entry's content.
+- If the entry does not exist, an error page is shown.
 
 #### Search
 
