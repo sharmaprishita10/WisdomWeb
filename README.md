@@ -4,7 +4,7 @@ Wiki is a web-based project designed to create a Wikipedia-like online encyclope
 
 ### Description
 
-This project involves building an online encyclopedia where each entry is stored as a Markdown file. Users can navigate between entry pages, create new entries, edit existing ones, search for entries, and access a random entry. The content written in Markdown is converted to HTML for display, making it easier to write and manage entries.
+This project is an online encyclopedia where each entry is stored as a Markdown file. Users can navigate between entry pages, create new entries, edit existing ones, search for entries, and access a random entry. The content written in Markdown is converted to HTML for display, making it easier to write and manage entries.
 
 ### Getting Started
 
