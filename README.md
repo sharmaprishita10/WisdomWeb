@@ -1,6 +1,6 @@
-# Wiki
+# WisdomWeb
 
-Wiki is a web-based project designed to create a Wikipedia-like online encyclopedia that allows users to view, search, create, and edit encyclopedia entries.
+WisdomWeb is a web-based project designed to create a Wikipedia-like online encyclopedia that allows users to view, search, create, and edit encyclopedia entries.
 
 ### Description
 
